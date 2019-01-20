@@ -1,0 +1,3 @@
+rootProject.name = 'tanbula_work'
+
+include ':app'
